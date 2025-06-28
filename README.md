@@ -56,21 +56,10 @@ Output is saved in `generated_outputs.txt`.
 
 ## 📝 3. LaTeX Report
 
-The file `mini_report.tex` contains:
+The file `PreDusk_Mini report.pdf` contains:
 - Classification model summary and accuracy plot  
 - GenAI output samples and comparison  
 - Key learnings from both tasks
-
-### How to Compile
-```bash
-pdflatex mini_report.tex
-```
-
-Or compile using [Overleaf](https://overleaf.com).
-
-> ⚠️ Make sure `Figure.png` is in the same folder while compiling.
-
----
 
 ## ✅ Requirements
 
