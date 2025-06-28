@@ -9,7 +9,7 @@ This repository contains a small-scale project demonstrating the use of a neural
 - `into_to_generative_ai.py`: Python script for generating text using GPT-2.
 - `generated_outputs.txt`: File storing generated outputs from GPT-2 with different temperature settings.
 - `Figure.png`: Line plot showing training and testing accuracy vs epoch.
-- `mini_report.tex`: LaTeX report combining insights from the classification and generation tasks.
+- `PreDusk_Mini report.pdf`: PDF file combining insights from the classification and generation tasks.
 - `README.md`: This documentation file.
 
 ---
